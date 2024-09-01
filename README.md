@@ -22,13 +22,6 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-     alt="Coding" 
-     width="440" 
-     style="margin-top: 90px; float: right;">
-
-<br><br>
-
 ```bash
 Always on the lookout for bugs...
 
@@ -46,8 +39,6 @@ Always on the lookout for bugs...
          ; '   : :`-:     _.`* ;
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
-
-    Dynamic backend professional specializing in deploying machine learning models and analyzing complex data sets to drive business growth. Proficient in Python, Java, JavaScript, and Principal Component Analysis, with hands-on experience in creating AI-powered tools and secure backend systems. Adept at leveraging machine learning algorithms and data visualization to provide actionable insights.
 ```
 
 ### Languages
