@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs;+I'M+A+Backend+Developer" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
   Contributing to Advancements in Machine Learning and Backend Development
   <br>
@@ -13,7 +14,7 @@
  <img src="https://img.shields.io/badge/FastAPI | Redis | Docker | Github | NLP | Data Analysis | Predictive Models -green.svg" alt="supun nanayakkara's languages" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -21,7 +22,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 <br>
-</div>
+</div> -->
 
 ```bash
 Always on the lookout for bugs...
@@ -41,6 +42,7 @@ Always on the lookout for bugs...
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 ```
+![Dancing Bob](dancingbob.gif)
 
 ### Languages
 - **Programming:** Python, Java, JavaScript
