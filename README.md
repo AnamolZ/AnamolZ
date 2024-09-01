@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs;+I'M A Backend Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs;+I'M+A+Backend+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
+<br>
 ```bash
 Always on the lookout for bugs...
 
