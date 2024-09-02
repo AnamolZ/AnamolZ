@@ -11,7 +11,7 @@
   Contributing to Advancements in Machine Learning and Backend Development
   <br>
   <br>
- <img src="https://img.shields.io/badge/FastAPI | Redis | Docker | Github | NLP | Data Analysis | Predictive Models -green.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/FastAPI | Redis | Docker | Github | NLP | Data Analysis | Predictive Models -white.svg" alt="supun nanayakkara's languages" />
 </p>
 
 <!-- <div align="center">
