@@ -44,11 +44,6 @@ Always on the lookout for bugs...
 ```
 ![Dancing Bob](dancingbob.gif)
 
-### Languages
-- **Programming:** Python, Java, JavaScript
-- **Frameworks/Tools:** FastAPI, MYSQL, Redis
-- **Language:** English, Nepali, Hindi
-
 ### Contact:
 - **Email:** anmoldkl971@gmail.com
 - **LinkedIn:** Anamol Dhakal
