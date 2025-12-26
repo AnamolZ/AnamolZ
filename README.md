@@ -27,8 +27,8 @@
       <p>I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.</p>
       <p>I specialize in building <b>robust, scalable backend systems</b> and modern architectural patterns.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Focus-Scalability-36F7A1?style=flat-square" /> 
-      <img src="https://img.shields.io/badge/Style-Clean_Code-36F7A1?style=flat-square" />
+      <a href="https://drive.google.com/file/d/1XO7sDWY_vTMYaXAWorP0zjxl2e_jSWwr/view"><img src="https://img.shields.io/badge/View-Resume-36F7A1?style=flat-square" /></a>
+      <a href="https://newspluk.com/"><img src="https://img.shields.io/badge/Read-Blog-36F7A1?style=flat-square" /></a>
       <br/><br/>
       🔹 <b>Curious:</b> Always learning new tech.<br/>
       🔹 <b>Disciplined:</b> Focused on maintainability.<br/>
