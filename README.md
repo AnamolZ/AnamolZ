@@ -29,6 +29,7 @@
       <br/>
       <a href="https://drive.google.com/file/d/1XO7sDWY_vTMYaXAWorP0zjxl2e_jSWwr/view"><img src="https://img.shields.io/badge/View-Resume-36F7A1?style=flat-square" /></a>
       <a href="https://newspluk.com/"><img src="https://img.shields.io/badge/Read-Blog-36F7A1?style=flat-square" /></a>
+      <a href="https://www.anamoldhakal.com.np/"><img src="https://img.shields.io/badge/Anamol-Site-36F7A1?style=flat-square" /></a>
       <br/><br/>
       🔹 <b>Curious:</b> Always learning new tech.<br/>
       🔹 <b>Disciplined:</b> Focused on maintainability.<br/>
