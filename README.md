@@ -1,54 +1,75 @@
-![logo](wallpaper.png)
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs;+I'M+A+Backend+Developer" alt="Typing SVG" />
-</h1>
-
-
 <p align="center">
-  Contributing to Advancements in Machine Learning and Backend Development
-  <br>
-  <br>
- <img src="https://img.shields.io/badge/FastAPI | Redis | Docker | Github | NLP | Data Analysis | Predictive Models -green.svg" alt="supun nanayakkara's languages" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36F7A1&height=180&section=header&text=Anamol%20Dhakal&fontSize=50&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
-<!-- <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-<br>
-</div> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs+🐳;Backend+System+Developer;System+Architect" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <strong>Contributing to Advancements in Backend System Development</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- ![Dancing Bob](dancingbob.gif) -->
+  <img src="dancingbob.gif" height="45" />
+</p>
+
+---
+
+### 💫 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <p>I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.</p>
+      <p>I specialize in building <b>robust, scalable backend systems</b> and modern architectural patterns.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-Scalability-36F7A1?style=flat-square" /> 
+      <img src="https://img.shields.io/badge/Style-Clean_Code-36F7A1?style=flat-square" />
+      <br/><br/>
+      🔹 <b>Curious:</b> Always learning new tech.<br/>
+      🔹 <b>Disciplined:</b> Focused on maintainability.<br/>
+      🔹 <b>Impact-focused:</b> Delivering measurable results.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="180px" style="border-radius: 20px; border: 2px solid #36F7A1;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
+
+---
+
+### 🐱 Hunting Bugs
 
 ```bash
 Always on the lookout for bugs...
 
-       \`*-.                 
-        )  _`-.                 
-       .  : `. .                          
-       : _   '  \               
-       ; *` _.   `*-._          
-       `-.-'          `-.       
-         ;       `       `.     
-         :.       .        \    
-         . \  .   :   .-'   .   
-         '  `+.;  ;  '      :   
-         :  '  |    ;       ;-. 
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
-      `*-*   `*-*  `*-*'
+        \*-.                 
+         )  _`-.                 
+        .  : `. .                         
+        : _   '  \               
+        ; *` _.   `*-._          
+        `-.-'          `-.       
+          ;       `        `.     
+          :.        .        \    
+          . \  .   :   .-'   .   
+          '  `+.;  ;  '      :   
+          :  '  |    ;       ;-. 
+          ; '    : :`-:      _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*'  
+      `*-* `*-* `*-*'
 ```
-![Dancing Bob](dancingbob.gif)
-
-### Contact:
-- **Email:** anmoldkl971@gmail.com
-- **LinkedIn:** Anamol Dhakal
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36F7A1&height=180&section=footer" alt="footer"/>
