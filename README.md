@@ -2,24 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36F7A1&height=180&section=header&text=Anamol%20Dhakal&fontSize=50&animation=fadeIn&fontAlignY=35" alt="header"/>
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F7A1&width=435&center=true&vCenter=true&lines=Yelo!+Devs+🐳;Backend+System+Developer;System+Architect" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <strong>Contributing to Advancements in Backend System Development</strong>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- ![Dancing Bob](dancingbob.gif) -->
-  <img src="dancingbob.gif" height="45" />
-</p>
-
 ---
 
-### 💫 About Me
+<h3 align="left">💫 About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" style="vertical-align: middle; display: inline-block;" /></h3>
 
 <table align="center">
   <tr>
@@ -43,7 +32,7 @@
 
 ---
 
-### 🐱 Hunting Bugs
+<h3 align="left">🐱 Hunting Bugs &nbsp; <img src="https://raw.githubusercontent.com/AnamolZ/AnamolZ/main/dancingbob.gif" height="35" style="vertical-align: middle; display: inline-block;" /></h3>
 
 ```bash
 Always on the lookout for bugs...
